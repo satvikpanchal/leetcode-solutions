@@ -1,6 +1,6 @@
 # LeetCode Solution
-# Problem: unknown. Maximum Average Subarray I
-# Difficulty: Unknown
+# Problem: 643. Maximum Average Subarray I
+# Difficulty: Easy
 # Language: Python3
 # URL: https://leetcode.com/problems/maximum-average-subarray-i/
 # Submitted: 2025-10-10 05:57:41 UTC
