@@ -3,7 +3,7 @@
 # Difficulty: Medium
 # Language: Python3
 # URL: https://leetcode.com/problems/k-radius-subarray-averages/
-# Submitted: 2025-10-11 21:34:22 UTC
+# Submitted: 2025-10-11 21:35:08 UTC
 # Status: Accepted
 
 class Solution:
