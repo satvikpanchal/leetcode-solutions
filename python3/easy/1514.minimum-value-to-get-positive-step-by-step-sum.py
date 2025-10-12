@@ -3,7 +3,7 @@
 # Difficulty: Easy
 # Language: Python3
 # URL: https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
-# Submitted: 2025-10-12 00:21:41 UTC
+# Submitted: 2025-10-12 17:24:55 UTC
 # Status: Accepted
 
 class Solution:
