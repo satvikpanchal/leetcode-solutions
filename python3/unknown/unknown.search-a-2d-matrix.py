@@ -1,6 +1,6 @@
 # LeetCode Solution
-# Problem: 74. Search a 2D Matrix
-# Difficulty: Medium
+# Problem: unknown. Search a 2D Matrix
+# Difficulty: Unknown
 # Language: Python3
 # URL: https://leetcode.com/problems/search-a-2d-matrix/
 # Submitted: 2025-10-27 04:38:39 UTC

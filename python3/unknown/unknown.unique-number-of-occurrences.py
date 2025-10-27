@@ -1,6 +1,6 @@
 # LeetCode Solution
-# Problem: 1319. Unique Number of Occurrences
-# Difficulty: Easy
+# Problem: unknown. Unique Number of Occurrences
+# Difficulty: Unknown
 # Language: Python3
 # URL: https://leetcode.com/problems/unique-number-of-occurrences/
 # Submitted: 2025-10-24 22:02:25 UTC
