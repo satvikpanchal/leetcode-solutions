@@ -1,6 +1,6 @@
 # LeetCode Solution
-# Problem: unknown. Find Players With Zero or One Losses
-# Difficulty: Unknown
+# Problem: 1354. Find Players With Zero or One Losses
+# Difficulty: Medium
 # Language: Python3
 # URL: https://leetcode.com/problems/find-players-with-zero-or-one-losses/
 # Submitted: 2025-12-09 02:00:56 UTC

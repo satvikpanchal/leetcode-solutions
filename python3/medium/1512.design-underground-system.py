@@ -1,6 +1,6 @@
 # LeetCode Solution
-# Problem: unknown. Design Underground System
-# Difficulty: Unknown
+# Problem: 1512. Design Underground System
+# Difficulty: Medium
 # Language: Python3
 # URL: https://leetcode.com/problems/design-underground-system/
 # Submitted: 2025-11-05 01:22:34 UTC
