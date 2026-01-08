@@ -3,8 +3,10 @@
 # Difficulty: Easy
 # Language: Python3
 # URL: https://leetcode.com/problems/ransom-note/
-# Submitted: 2026-01-07 00:43:30 UTC
+# Submitted: 2025-08-31 03:41:33 UTC
 # Status: Accepted
+
+from collections import defaultdict
 
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
@@ -26,4 +28,4 @@ class Solution:
 
         return True
 
-        
+
