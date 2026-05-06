@@ -1,6 +1,6 @@
 # LeetCode Solution
-# Problem: unknown. Validate Binary Search Tree
-# Difficulty: Unknown
+# Problem: 98. Validate Binary Search Tree
+# Difficulty: Medium
 # Language: Python3
 # URL: https://leetcode.com/problems/validate-binary-search-tree/
 # Submitted: 2026-05-01 01:47:21 UTC

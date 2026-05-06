@@ -1,6 +1,6 @@
 # LeetCode Solution
-# Problem: unknown. Best Time to Buy and Sell Stock II
-# Difficulty: Unknown
+# Problem: 122. Best Time to Buy and Sell Stock II
+# Difficulty: Medium
 # Language: Python3
 # URL: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 # Submitted: 2026-05-01 02:25:04 UTC
